@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a modular system integrating federated identity management with Adobe Experience Manager (AEM), blockchain-based identity verification, federated machine learning, and an indexing chatbot. The architecture is designed for secure, scalable, and intelligent digital experiences.
+This project is a modular system integrating federated identity management with Adobe Experience Manager (AEM), blockchain-based identity verification, federated machine learning, and an indexing chatbot. The architecture is designed for secure, scalable, and intelligent digital experiences. 
 
 ---
 
